@@ -7,6 +7,9 @@ function App() {
       <h1>
         commit 1
       </h1>
+      <h2>
+        commit 2
+      </h2>
     </>
   )
 }
