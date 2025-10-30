@@ -10,6 +10,9 @@ function App() {
       <h2>
         commit 2
       </h2>
+      <h3>
+        commit 3
+      </h3>
     </>
   )
 }
